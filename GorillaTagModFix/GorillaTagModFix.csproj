@@ -8,6 +8,11 @@
 		<RuntimeIdentifier>win-x64</RuntimeIdentifier>
 		<UseWindowsForms>true</UseWindowsForms>
 		<ImplicitUsings>enable</ImplicitUsings>
+		<ApplicationIcon>ab67616d00001e0268cd419dc5bacb3494c21b65.ico</ApplicationIcon>
 	</PropertyGroup>
+
+	<ItemGroup>
+	  <Content Include="ab67616d00001e0268cd419dc5bacb3494c21b65.ico" />
+	</ItemGroup>
 
 </Project>
